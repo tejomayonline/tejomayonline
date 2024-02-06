@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm a full-stack Team Lead Engineer and personal finance mentor</h1>
-<h3 align="center">Passionate for technology, design, development, innovation and idea.</h3>
+<h3 align="center">Passionate for Technology, Design, Development, Innovation and Growth.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline) -->
 
-- 📝 I regularly write articles on [https://tejomaysahaonline.medium.com/](https://tejomaysahaonline.medium.com/)
+<!-- - 📝 I regularly write articles on [https://tejomaysahaonline.medium.com/](https://tejomaysahaonline.medium.com/) -->
 
 - 💬 Ask me about **Node.js, Javascript, AWS, Cloud-native, Interviews, Salary Negotiation etc.**
 
 - 📫 How to reach me **tejomaysaha@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ra0madGffL_xrI7ZhWSoPlZbgt-IXZfx/edit?usp=sharing&ouid=101344529236747864234&rtpof=true&sd=true](https://docs.google.com/document/d/1ra0madGffL_xrI7ZhWSoPlZbgt-IXZfx/edit?usp=sharing&ouid=101344529236747864234&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ra0madGffL_xrI7ZhWSoPlZbgt-IXZfx/edit?usp=sharing&ouid=101344529236747864234&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love to crack jokes, dance, play guitar, music**
 

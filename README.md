@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm a full-stack Lead Engineer, Career Acceleration Coach</h1>
 <h3 align="center">Passionate for Technology, Design, Development, Innovation and Growth.</h3>
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline) -->
+- 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline)
 
-<!-- - 📝 I regularly write articles on  [Linkedin](https://www.linkedin.com/in/tejomayonline/) -->
+- 📝 I regularly write articles on  [Linkedin](https://www.linkedin.com/in/tejomayonline/)
 
 - 💬 Ask me about **Career Growth, Interviews, Salary Negotiation, Massive Salary Hike, Promotion Strategy, Remote Jobs etc.**
 
-- 📫 How to reach me **tejomaysaha@outlook.com**
+- ✅ Connect with me to scale your IT career at least 2x [here](https://calendly.com/tejomaysahacareercoach/1-1-clarity-call-with-tejomay?month=2024-05)
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ra0madGffL_xrI7ZhWSoPlZbgt-IXZfx/edit?usp=sharing&ouid=101344529236747864234&rtpof=true&sd=true)
 

@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline)
 
-- 📝 I regularly write articles on  [Linkedin](https://www.linkedin.com/in/tejomayonline/)
+- 📝 I regularly write career growth, mindset hacks strategies on [Linkedin](https://www.linkedin.com/in/tejomayonline/)
 
 - 💬 Ask me about **Career Growth, Interviews, Salary Negotiation, Massive Salary Hike, Promotion Strategy, Remote Jobs etc.**
 

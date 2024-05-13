@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm a full-stack Team Lead Engineer and personal finance mentor</h1>
+<h1 align="center">Hi 👋, I'm a full-stack Lead Engineer, Career Acceleration Coach</h1>
 <h3 align="center">Passionate for Technology, Design, Development, Innovation and Growth.</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/tejomayonline](https://github.com/tejomayonline) -->
 
-<!-- - 📝 I regularly write articles on [https://tejomaysahaonline.medium.com/](https://tejomaysahaonline.medium.com/) -->
+<!-- - 📝 I regularly write articles on  [Linkedin](https://www.linkedin.com/in/tejomayonline/) -->
 
-- 💬 Ask me about **Node.js, Javascript, AWS, Cloud-native, Interviews, Salary Negotiation etc.**
+- 💬 Ask me about **Career Growth, Interviews, Salary Negotiation, Massive Salary Hike, Promotion Strategy, Remote Jobs etc.**
 
 - 📫 How to reach me **tejomaysaha@outlook.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ra0madGffL_xrI7ZhWSoPlZbgt-IXZfx/edit?usp=sharing&ouid=101344529236747864234&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love to crack jokes, dance, play guitar, music**
+- ⚡ Fun fact **I love to crack jokes, dance, play guitar, and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
